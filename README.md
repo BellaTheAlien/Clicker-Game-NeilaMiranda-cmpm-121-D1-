@@ -8,4 +8,8 @@ The pumpkin button/clicker style where it gets bigger and brighter when you hove
 
 The pumpkin bouncing and the title shaking was inspired from mgembree's frog clicker game with thier frog buttons animations - <https://mgembree.github.io/cmpm-121-f25-mattembree/>
 
-~test for new page
+~~To run local~~
+Clone this repo
+run a terminal with Command line
+run ' deno task dev '
+then click the local host page that it give (if it didn't pop the page in the back ground)
