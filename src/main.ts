@@ -53,7 +53,7 @@ const upgrades = [
     count: 0,
     id: "psl",
     description:
-      "A delicious drink. Don't have too much or you'll turn into a pumpkin.",
+      "A tasty drink. Don't have too much or you'll turn into a pumpkin.",
   },
   {
     name: "Pumpkin Patch",
